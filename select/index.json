@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "base_track": "どりーむもーど",
+  "base_track": "どりーむもーど（feat. 音街ウナ）",
   "base_artist": "Atena",
-  "createdAt": "2025-12-07T05:36:25.190143Z",
+  "createdAt": "2026-02-14T10:10:11.136671Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "どりーむもーど - DREAMMODE",
-      "artist": "Atena",
-      "has_synced": true,
-      "path": "select/01_どりーむもーど_-_DREAMMODE_Atena.lrc"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
